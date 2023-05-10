@@ -14,3 +14,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+<img src="https://github.com/Bonikadesai/digital_analoge_strap_clock/assets/114163756/41c8a464-3f98-4a08-987a-6d0256292d28" width="300px">
